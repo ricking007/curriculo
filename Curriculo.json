@@ -1,0 +1,124 @@
+{
+    "pessoal": {
+        "nome": "RICARDO DOS SANTOS OLIVEIRA",
+        "nacionalidade": "Brasileiro",
+        "relacionamento": "Casado",
+        "idade": 29,
+        "endereço": "Av. Sete de Setembro, 166",
+        "cidade": "Salvador",
+        "estado": "Bahia",
+        "telefone": "(71) 99995-7980",
+        "email": "ricardorick45@hotmail.com",
+        "linkedin": "https://www.linkedin.com/in/ricardo-oliveira-103735168/",
+        "github": "https://github.com/ricking007"
+    },
+    "interesse": "Vagas de desenvolvedor mobile hibrido",
+    "habilidades": {
+        "titulo": "Software Developer",
+        "backend": "PHP",
+        "framework": [
+            "laravel",
+            "ionic",
+            "flutter"
+        ],
+        "frontend": [
+            "Angular",
+            "Reactjs",
+            "jQuery"
+        ],
+        "bd": [
+            "MySQL",
+            "SQL Server",
+            "PostgreSQL"
+        ],
+        "outros": [
+            "git",
+            "VPS - Linux",
+            "JS",
+            "TypeScript",
+            "Google play e Apple Store (deploy)"
+        ]
+    },
+    "formacao": {
+        "formacao academica": [
+            "Direito - Unime (concluído)"
+        ],
+        "cursos": [
+            "laravel - udemy",
+            "laravel - devmedia",
+            "reactjs - devmedia",
+            "flutter - alura"
+        ]
+    },
+    "idiomas": {
+        "portugues": "Nativo",
+        "ingles": "Intermediário"
+    },
+    "experiencia": {
+        "clt": {
+            "nome": "Infocraft",
+            "cargo": "Mobile",
+            "atividades": "Desenvolvimento de aplicações mobile em ionic 3 e 4.",
+            "site": "http://www.infocraft.com.br/site/",
+            "status": "on"
+        },
+        "pj": [
+            {
+                "nome": "Kcollector",
+                "cargo": "Desenvolvedor Full Stack",
+                "atividades": "Desenvolvimento de ERP SaaS na área de logistica, com implantação de aplicações web e mobile nativo (Android-Java), além de configuração e manutenção de servidores linux, ou seja, `pau para toda obra`",
+                "site": "https://www.kcollector.com.br/",
+                "status": "on"
+            },
+            {
+                "nome": "Prefeitura Municipal de Pé de Serra - BA",
+                "cargo": "Desenvolvedor Full Stack",
+                "atividades": "Desenvolvimento de ERP SaaS para gerenciamento de pacientes e exames do sistema público de saúde, com implantação de aplicações web",
+                "site": "http://www.gapm.com.br/",
+                "status": "on"
+            }
+        ],
+        "freelancer": {
+            "nome": "Cenajur",
+            "cargo": "Analista de Mídia Online",
+            "atividades": "Desenvolvimento de ERP SaaS completo na área de escritório, com implantação de aplicações web e mobile (ionic 4), além de configuração e manutenção de servidores linux",
+            "site": "https://sistema.cenajur.com/",
+            "status": "on"
+        }
+    },
+    "cursos": {
+        "udemy": [
+            "php",
+            "laravel",
+            "Angular",
+            "ionic"
+        ],
+        "alura": [
+            "flutter",
+            "inglês"
+        ],
+        "devmedia": [
+            "laravle",
+            "Angular",
+            "Ionic"
+        ]
+    },
+    "referencias pessoais": [
+        {
+            "nome": "Victor Nunes",
+            "de": "Coordenador de Equipe",
+            "tel": "+55 71 9102-5127"
+        },
+        {
+            "nome": "Antonio Deus",
+            "de": "Empresário",
+            "tel": "+55 31 9606-4613"
+        },
+        {
+            "nome": "Fabio Samartin Fernandes",
+            "de": "Gestor Financeiro",
+            "tel": "+55 71 8894-7707"
+        }
+    ],
+    "consideracoes finais": "Sou um profissional aplicado, autodidata e sedento por conhecimento."
+}
